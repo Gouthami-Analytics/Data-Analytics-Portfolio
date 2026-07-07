@@ -65,10 +65,10 @@ This interactive dashboard helps healthcare professionals monitor key performanc
 ![Monthly View](Monthly_View.png)
 
 ### Consolidated View
-![Consolidated View](Cosolidated_View.png)
+![Consolidated View](Consolidated_View.png)
 
 ### Patient Details
-![Patient Details](Pateient_Details.png)
+![Patient Details](Patient_Details.png)
 
 ### Key Takeaways
 ![Key Takeaways](Key_Takeaways.png)
